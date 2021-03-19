@@ -1,2 +1,2 @@
 # wa24PARACHURI 
-** This is my first server**
+**This is my first server**
